@@ -1,11 +1,12 @@
 ### Hi there 👋 
-- 👋 Hi, I'm Boris. Junior Node.js developer from Moscow
-- 🌱 I’m currently learning web-development at [Hexlet.io](https://ru.hexlet.io)
+- 👋 Hi, I'm Boris. Backend(Node.js) developer from Moscow. Currently in Armenia
+- 🔭 I’m currently working at [R-Vision](https://rvision.ru/)
+- 🌱 Made by [Hexlet.io](https://ru.hexlet.io)
 - 👯 I’m looking to collaborate on any projects
 - 📫 How to reach me: 6479500dev@gmail.com
 <!--
 **CENTneRMOB/CENTneRMOB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+https://rvision.ru/
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
