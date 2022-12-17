@@ -1,5 +1,5 @@
 ### Hi there 👋 
-- 👋 Hi, I'm Boris. Backend(Node.js) developer from Moscow. Currently in Armenia
+- 👋 Hi, I'm Boris. Backend developer(Node.js) from Moscow. Currently live in Armenia
 - 🔭 I’m currently working at [R-Vision](https://rvision.ru/)
 - 🌱 As developer made by [Hexlet.io](https://ru.hexlet.io)
 - 👯 I’m looking to collaborate on any projects
