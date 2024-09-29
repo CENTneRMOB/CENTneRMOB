@@ -1,5 +1,5 @@
 ### Hi there 👋 
-- 👋 Hi, I'm Boris. Backend developer. Currently live in Armenia
+- 👋 Hi, I'm Boris. Backend developer.
 <!--
 - 🔭 I’m currently looking for a job.
 -->
