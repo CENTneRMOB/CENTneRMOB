@@ -1,9 +1,5 @@
 ### Hi there 👋 
 - 👋 Hi, I'm Boris. Backend developer.
-<!--
-- 🔭 I’m currently looking for a job.
--->
-- 🌱 As developer made by [Hexlet.io](https://ru.hexlet.io)
 - 👯 I’m looking to collaborate on any projects
 - 📫 How to reach me: 6479500dev@gmail.com
 <!--
